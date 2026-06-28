@@ -11,7 +11,11 @@ I enjoy designing APIs, structuring databases, integrating services, and buildin
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [devbyRey](http://devbyrey.vercel.app/)
 * ✉️  You can contact me at [randrada@usa.edu.ph](mailto:randrada@usa.edu.ph)
-* 🧠  I'm currently learning - Backend Development (Node.js, Python, Java) - Cloud & Serverless Applications - Applied AI & Data Systems - Building production-ready full-stack projects
+* 🧠 I'm currently learning:
+  * Backend Development (Node.js, Python, Java)
+  * Cloud & Serverless Applications
+  * Applied AI & Data Systems
+  * Building production-ready full-stack projects
 * 💬  Ask me about pineapple being good on pizza
 
 <p align="left">
