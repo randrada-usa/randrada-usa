@@ -4,7 +4,7 @@
   <img src="assets/dark.svg" alt="Profile banner">
 </picture>
 
-<p align="center"><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api?username=randrada-usa&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&border_color=22D3EE" width="50%" alt="GitHub Stats"/><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api/top-langs/?username=randrada-usa&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&border_color=22D3EE" width="50%" alt="Top Languages"/></p>
+<p align="center"><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api?username=randrada-usa&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&border_color=22D3EE" width="50%" style="vertical-align:top" alt="GitHub Stats"/><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api/top-langs/?username=randrada-usa&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&border_color=22D3EE" width="50%" style="vertical-align:top" alt="Top Languages"/></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/randrada-usa/randrada-usa/output/github-contribution-grid-snake-dark.svg">
