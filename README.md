@@ -4,12 +4,7 @@
   <img src="assets/dark.svg" alt="Profile banner">
 </picture>
 
-<table width="100%">
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api?username=randrada-usa&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&border_color=22D3EE" width="100%" alt="GitHub Stats"/></td>
-    <td width="50%"><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api/top-langs/?username=randrada-usa&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&border_color=22D3EE" width="100%" alt="Top Languages"/></td>
-  </tr>
-</table>
+<p align="center"><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api?username=randrada-usa&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&border_color=22D3EE" width="50%" alt="GitHub Stats"/><img src="https://github-readme-stats-ivory-chi-96.vercel.app/api/top-langs/?username=randrada-usa&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&border_color=22D3EE" width="50%" alt="Top Languages"/></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/randrada-usa/randrada-usa/output/github-contribution-grid-snake-dark.svg">
